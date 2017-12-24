@@ -1,0 +1,11 @@
+xRes yRes - resolution
+minboxres - minimal 1dim resolution of wifibox //def 40
+x y z - campos
+x y z - camera target
+fow - FOW //def 100
+x y z - wifi position
+pow - wifi power in dbm //def 20 
+wnum - wifi rays num //def 100000
+wrefnum - wifi reflections num //def 8
+alpha - wifi fog alpha //def 0.01
+wrefcost - wifi reflecting cost //def 0.01

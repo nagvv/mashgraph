@@ -1,0 +1,3 @@
+C:/Users/Alexey/git/mashgraph/task4/task/CMakeFiles/main.dir
+C:/Users/Alexey/git/mashgraph/task4/task/CMakeFiles/edit_cache.dir
+C:/Users/Alexey/git/mashgraph/task4/task/CMakeFiles/rebuild_cache.dir
